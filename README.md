@@ -14,6 +14,9 @@
 
  ## Penerapan metode seperti jurnal (Tugas 3)
  - Menggunakan model VGG16 dimana dalam model tersebut terdapat cnn yang dapat digunakan untuk ekstrak citra.
+
+ ## Deploy to Heroku
+ - Link heroku : https://cbir-ikankoi.herokuapp.com/
  
  ## Source
  - Youtube : https://www.youtube.com/watch?v=M0Y9_vBmYXU
