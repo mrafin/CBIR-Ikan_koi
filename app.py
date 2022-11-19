@@ -9,7 +9,7 @@ from pathlib import Path
 app = Flask(__name__)
 
 # Read image features
-fe = FeatureExtractor(load_model('mobilenet.h5', compile=False))
+fe = FeatureExtractor(load_model('static/model/mobilenet.h5', compile=False))
 
 features = []
 img_paths = []
